@@ -8,6 +8,7 @@ export const LinkNav = styled(NavLink)`
   padding: 12px;
   font-weight: 700;
   color: #2a363b;
+  font-size: 25px;
 
   :active {
     color: #e84a5f;

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Form = styled.form`
-  width: 320px;
+  width: 4g20px;
 `;
 
 export const Label = styled.label`

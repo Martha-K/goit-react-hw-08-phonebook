@@ -1,13 +1,13 @@
-import { Container, Title } from './homeStyled';
+import { Container, Title, Span } from './homeStyled';
 
 const Home = () => {
     return (
       <Container>
         <Title>
           The phone book welcomes you{' '}
-          <span role="img" aria-label="Greeting icon">
+          <Span role="img" aria-label="Greeting icon">
             💁‍♀️
-          </span>
+          </Span>
         </Title>
       </Container>
     );
