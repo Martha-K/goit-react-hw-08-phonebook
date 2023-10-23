@@ -14,7 +14,7 @@ export default function Contacts() {
   useEffect(() => {
     dispatch(fetchContacts());
   }, [dispatch]);
-
+console.log('gvvhjb', isLoading);
   return (
     <>
       <Helmet>
